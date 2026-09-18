@@ -2,8 +2,8 @@
 #include<stdio.h>
 int main()
 {
-    printf(" Ankit Neupane");
-    
+    printf(" neupane ankit ");
+
     return 0;
     
 }
